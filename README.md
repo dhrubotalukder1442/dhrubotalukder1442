@@ -55,6 +55,32 @@
 
 ---
 
+## 💳 Payment Gateway
+
+### 🏦 SSLCommerz Integration
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-Payment-orange?style=for-the-badge)
+![Native Fetch](https://img.shields.io/badge/Native-Fetch-blue?style=for-the-badge)
+![Sandbox](https://img.shields.io/badge/Sandbox-Tested-green?style=for-the-badge)
+![BDT](https://img.shields.io/badge/Currency-BDT-red?style=for-the-badge)
+
+---
+
+### 🔄 Payment Flow
+![Init](https://img.shields.io/badge/Step_1-Init_Payment-blue?style=for-the-badge)
+![Redirect](https://img.shields.io/badge/Step_2-Gateway_Redirect-orange?style=for-the-badge)
+![Callback](https://img.shields.io/badge/Step_3-POST_Callback-purple?style=for-the-badge)
+![Verify](https://img.shields.io/badge/Step_4-Status_Update-green?style=for-the-badge)
+
+---
+
+### 🧾 Transaction Management
+![Pending](https://img.shields.io/badge/Status-Pending%20%7C%20Paid%20%7C%20Failed-yellow?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-Transactions-green?style=for-the-badge)
+![TxnID](https://img.shields.io/badge/Unique-Transaction_ID-black?style=for-the-badge)
+![302 Redirect](https://img.shields.io/badge/HTTP-302_Redirect-blue?style=for-the-badge)
+
+---
+
 ## 💬 Chat System
 
 ### ⚡ Polling (Baseline)
@@ -77,6 +103,7 @@
 ![Zero LocalStorage](https://img.shields.io/badge/No-localStorage-black?style=for-the-badge)
 ![Cost Efficient](https://img.shields.io/badge/Cost-$0-green?style=for-the-badge)
 ![Production Ready](https://img.shields.io/badge/Production-Ready-blue?style=for-the-badge)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhrubotalukder1442&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dhrubotalukder1442&theme=dark&hide_border=false)<br/>
