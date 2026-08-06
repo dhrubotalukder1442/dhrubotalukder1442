@@ -1,118 +1,157 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhrubo Talukder</h1>
 
-# 💫 About Me:
-🔧 Enthusiastic about technology, coding, and creative problem-solving<br><br>📚 Committed to continuous learning and skill development<br><br>🤝 Team player with good communication and collaboration skills<br><br>🎯 Goal-oriented and detail-focused in every task I take on<br><br>💡 Passionate about innovation and real-world impact<br><br>⏱️ Organized and able to manage time effectively<br><br>🚀 Eager to take on challenges and grow through experience<br><br>
+<h3 align="center">
+Full Stack Developer • Software Engineer • Data Analyst
+</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Laravel+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dhrubo.talukder.50) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhrubo.talukder.50) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhrubo-talukder-02785621b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrubot1442@gmail.com) 
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF"/>
+</p>
 
-# 💻 Tech Stack:
-
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-## 🔐 Security & Architecture
-
-### 🔑 Authentication
-![JWT](https://img.shields.io/badge/JWT-Auth-black?style=for-the-badge&logo=jsonwebtokens)
-![HttpOnly Cookies](https://img.shields.io/badge/HttpOnly-Cookies-blue?style=for-the-badge)
-![SameSite](https://img.shields.io/badge/SameSite-Lax-green?style=for-the-badge)
-![Secure Cookies](https://img.shields.io/badge/Secure-HTTPS-red?style=for-the-badge)
-![JOSE](https://img.shields.io/badge/jose-JWT-orange?style=for-the-badge)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-00F7FF?style=flat-square&logo=linkedin&logoColor=black" /></a>
+  <a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/-Facebook-00F7FF?style=flat-square&logo=facebook&logoColor=black" /></a>
+  <a href="https://your-portfolio-url.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-00F7FF?style=flat-square&logo=vercel&logoColor=black" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-00F7FF?style=flat-square&logo=gmail&logoColor=black" /></a>
+</p>
 
 ---
 
-### 🔒 Password Security
-![bcrypt](https://img.shields.io/badge/bcrypt-Hashing-blue?style=for-the-badge)
-![Salt](https://img.shields.io/badge/Salting-Automatic-green?style=for-the-badge)
-![Brute Force Protection](https://img.shields.io/badge/Brute--Force-Resistant-red?style=for-the-badge)
+## 👨‍💻 About Me
+
+- 🔹 Full Stack Developer from Bangladesh
+- 🔹 Passionate about Web Development & Software Engineering
+- 🔹 Strong in React, Next.js, Node.js & Laravel
+- 🔹 Interested in Secure Authentication & System Design
+- 🔹 Data Analytics & Machine Learning Enthusiast
+- 🔹 Currently Learning:
+  - GSAP
+  - NestJS
+- 🔹 Love solving real-world problems with code
 
 ---
 
-### 📧 Email Verification (OTP)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-Email-green?style=for-the-badge)
-![Gmail SMTP](https://img.shields.io/badge/Gmail-SMTP-red?style=for-the-badge&logo=gmail)
-![OTP](https://img.shields.io/badge/OTP-6--Digit-blue?style=for-the-badge)
-![TTL Index](https://img.shields.io/badge/MongoDB-TTL-orange?style=for-the-badge)
-![Secure OTP](https://img.shields.io/badge/Crypto-Random-purple?style=for-the-badge)
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,mongodb,mysql,python,git,github,vercel&theme=dark" />
+</p>
 
 ---
 
-### 🚫 Rate Limiting
-![Rate Limit](https://img.shields.io/badge/Rate--Limit-5%2F5min-red?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-Based-green?style=for-the-badge)
-![TTL Cleanup](https://img.shields.io/badge/Auto--Cleanup-TTL-blue?style=for-the-badge)
-![429 Error](https://img.shields.io/badge/HTTP-429-orange?style=for-the-badge)
+## 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🏠 FixNext-Sheba</h3>
+      <p>Home Service Booking Platform</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens" />
+        <img src="https://img.shields.io/badge/-SSLCommerz-00F7FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" />
+      </p>
+      <p>
+        <a href="#">Live Demo</a> • <a href="#">GitHub</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>♻️ Smart Waste Management</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express" />
+        <img src="https://img.shields.io/badge/-REST%20API-00F7FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-IoT-orange?style=flat-square" />
+      </p>
+      <p>
+        <a href="#">Live Demo</a> • <a href="#">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎗 Breast Cancer Detection</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PCA-00F7FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-ADASYN-00F7FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/-MLP-00F7FF?style=flat-square" />
+      </p>
+      <p>
+        <a href="#">Live Demo</a> • <a href="#">GitHub</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🛒 Laravel E-Commerce</h3>
+      <p>
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Blade-FF2D20?style=flat-square" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>
+        <a href="#">Live Demo</a> • <a href="#">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛡️ Input Validation & Sanitization
-![Validator](https://img.shields.io/badge/Validator.js-Validation-blue?style=for-the-badge)
-![XSS Protection](https://img.shields.io/badge/XSS-Protected-red?style=for-the-badge)
-![NoSQL Injection](https://img.shields.io/badge/NoSQL-Injection-Safe-green?style=for-the-badge)
-![Sanitization](https://img.shields.io/badge/Input-Sanitized-orange?style=for-the-badge)
+## 💼 Experience
+
+**PHP Laravel Intern** — Source Expert
+`Oct 2025 – Dec 2025`
+- Developed Admin Dashboard
+- Built reusable Blade Components
 
 ---
 
-## 💳 Payment Gateway
+## 📜 Certifications
 
-### 🏦 SSLCommerz Integration
-![SSLCommerz](https://img.shields.io/badge/SSLCommerz-Payment-orange?style=for-the-badge)
-![Native Fetch](https://img.shields.io/badge/Native-Fetch-blue?style=for-the-badge)
-![Sandbox](https://img.shields.io/badge/Sandbox-Tested-green?style=for-the-badge)
-![BDT](https://img.shields.io/badge/Currency-BDT-red?style=for-the-badge)
-
----
-
-### 🔄 Payment Flow
-![Init](https://img.shields.io/badge/Step_1-Init_Payment-blue?style=for-the-badge)
-![Redirect](https://img.shields.io/badge/Step_2-Gateway_Redirect-orange?style=for-the-badge)
-![Callback](https://img.shields.io/badge/Step_3-POST_Callback-purple?style=for-the-badge)
-![Verify](https://img.shields.io/badge/Step_4-Status_Update-green?style=for-the-badge)
+- EDGE
+- Cisco
+- LinkedIn Learning
+- Tata Forage
 
 ---
 
-### 🧾 Transaction Management
-![Pending](https://img.shields.io/badge/Status-Pending%20%7C%20Paid%20%7C%20Failed-yellow?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-Transactions-green?style=for-the-badge)
-![TxnID](https://img.shields.io/badge/Unique-Transaction_ID-black?style=for-the-badge)
-![302 Redirect](https://img.shields.io/badge/HTTP-302_Redirect-blue?style=for-the-badge)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&column=7" width="98%" />
+</p>
 
 ---
 
-## 💬 Chat System
+## 📬 Contact
 
-### ⚡ Polling (Baseline)
-![Polling](https://img.shields.io/badge/Polling-1s-blue?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-Storage-green?style=for-the-badge)
-![Serverless](https://img.shields.io/badge/Serverless-Compatible-black?style=for-the-badge)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://skillicons.dev/icons?i=fb" /></a>
+  <a href="https://your-portfolio-url.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
----
-
-### 🚀 Real-Time (Upgrade)
-![Pusher](https://img.shields.io/badge/Pusher-Realtime-purple?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSocket-Ready-blue?style=for-the-badge)
-![Realtime Chat](https://img.shields.io/badge/Chat-Instant-green?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/Event-Driven-orange?style=for-the-badge)
-
----
-
-## 🧠 Key Highlights
-![Security First](https://img.shields.io/badge/Security-First-red?style=for-the-badge)
-![Zero LocalStorage](https://img.shields.io/badge/No-localStorage-black?style=for-the-badge)
-![Cost Efficient](https://img.shields.io/badge/Cost-$0-green?style=for-the-badge)
-![Production Ready](https://img.shields.io/badge/Production-Ready-blue?style=for-the-badge)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhrubotalukder1442&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhrubotalukder1442&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubotalukder1442&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhrubotalukder1442&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=dhrubotalukder1442&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
