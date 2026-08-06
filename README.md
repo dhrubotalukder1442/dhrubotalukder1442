@@ -59,7 +59,7 @@
         <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens" />
-        <img src="https://img.shields.io/badge/SSLCommerz-00F7FF?style=flat-square&labelColor=0D1117&color=00F7FF&logoColor=black" />
+       <img src="https://img.shields.io/badge/-SSLCommerz-0099CC?style=flat-square" />
         <img src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" />
       </p>
       <p>
