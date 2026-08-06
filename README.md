@@ -14,7 +14,7 @@ Full Stack Developer • Software Engineer • Data Analyst
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-00F7FF?style=flat-square&logo=linkedin&logoColor=black" /></a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/-Facebook-00F7FF?style=flat-square&logo=facebook&logoColor=black" /></a>
+  <a href="https://www.facebook.com/dhrubo.talukder.50"><img src="https://img.shields.io/badge/-Facebook-00F7FF?style=flat-square&logo=facebook&logoColor=black" /></a>
   <a href="https://your-portfolio-url.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-00F7FF?style=flat-square&logo=vercel&logoColor=black" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-00F7FF?style=flat-square&logo=gmail&logoColor=black" /></a>
 </p>
@@ -125,20 +125,20 @@ Full Stack Developer • Software Engineer • Data Analyst
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrubotalukder1442&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubotalukder1442&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrubotalukder1442&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrubotalukder1442&theme=tokyo-night&hide_border=true" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&column=7" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhrubotalukder1442&theme=tokyonight&no-frame=true&column=7" width="98%" />
 </p>
 
 ---
@@ -146,12 +146,12 @@ Full Stack Developer • Software Engineer • Data Analyst
 ## 📬 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK"><img src="https://skillicons.dev/icons?i=fb" /></a>
-  <a href="https://your-portfolio-url.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/dhrubo-talukder-02785621b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://dhrubo-portfolio-seven.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="mailto:dhrubot1442@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.facebook.com/dhrubo.talukder.50"><img src="https://skillicons.dev/icons?i=fb" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=dhrubotalukder1442&label=Profile%20Views&color=00F7FF&style=flat" />
 </p>
