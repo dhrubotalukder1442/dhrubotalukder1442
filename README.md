@@ -59,11 +59,11 @@
         <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/-JWT-000?style=flat-square&logo=jsonwebtokens" />
-        <img src="https://img.shields.io/badge/-SSLCommerz-00F7FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/SSLCommerz-00F7FF?style=flat-square&labelColor=0D1117&color=00F7FF&logoColor=black" />
         <img src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" />
       </p>
       <p>
-        <a href="#">Live Demo</a> • <a href="#">GitHub</a>
+        <a href="#">Live Demo</a> • <a href="https://fixnext-sheba.vercel.app/"></a>
       </p>
     </td>
     <td width="50%">
@@ -71,11 +71,11 @@
       <p>
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express" />
-        <img src="https://img.shields.io/badge/-REST%20API-00F7FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/-REST%20API-0099CC?style=flat-square" />
         <img src="https://img.shields.io/badge/-IoT-orange?style=flat-square" />
       </p>
       <p>
-        <a href="#">Live Demo</a> • <a href="#">GitHub</a>
+        <a href="https://github.com/dhrubotalukder1442/Smart-Waste-Management-and-Disposal-System-backend">GitHub</a>
       </p>
     </td>
   </tr>
@@ -85,12 +85,12 @@
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PCA-00F7FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/-ADASYN-00F7FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/-MLP-00F7FF?style=flat-square" />
+       <img src="https://img.shields.io/badge/-PCA-0099CC?style=flat-square" />
+<img src="https://img.shields.io/badge/-ADASYN-0099CC?style=flat-square" />
+<img src="https://img.shields.io/badge/-MLP-0099CC?style=flat-square" />
       </p>
       <p>
-        <a href="#">Live Demo</a> • <a href="#">GitHub</a>
+         <a href="https://github.com/dhrubotalukder1442/Multi_cnn_feature_eval_with_explainability.py">GitHub</a>
       </p>
     </td>
     <td width="50%">
@@ -101,7 +101,7 @@
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <p>
-        <a href="#">Live Demo</a> • <a href="#">GitHub</a>
+         <a href="https://github.com/dhrubotalukder1442/ecommerce">GitHub</a>
       </p>
     </td>
   </tr>
