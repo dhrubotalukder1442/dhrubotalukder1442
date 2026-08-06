@@ -5,20 +5,23 @@ Full Stack Developer • Software Engineer • Data Analyst
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhrubo-talukder-02785621b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/dhrubo.talukder.50">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://dhrubo-portfolio-seven.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:dhrubot1442@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/dhrubo-talukder-02785621b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" />
+</a>
+</p>
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF"/>
+</p>
+<p align="center">
+ <a href="https://www.linkedin.com/in/dhrubo-talukder-02785621b/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/dhrubo.talukder.50"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://dhrubo-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="mailto:dhrubot1442@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+sobgulo eki design rakho
 ---
 
 ## 👨‍💻 About Me
