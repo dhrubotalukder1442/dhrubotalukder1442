@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhrubo Talukder</h1>
 <h1
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=50&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Data+Analyst;Next.js+%7C+Node.js+%7C+Laravel+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=50&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Data+Analyst;Next.js+%7C+Node.js+%7C+Laravel+Developer" alt="Typing SVG" />
 </p></h1>
 
 
