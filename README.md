@@ -13,7 +13,9 @@ Full Stack Developer • Software Engineer • Data Analyst
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhrubo-talukder-02785621b/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/dhrubo-talukder-02785621b/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 <a href="https://www.facebook.com/dhrubo.talukder.50"><img src="https://img.shields.io/badge/-Facebook-0D1117?style=flat-square&logo=facebook&logoColor=white" /></a>
 <a href="https://dhrubo-portfolio-seven.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=white" /></a>
 <a href="mailto:dhrubot1442@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=white" /></a>
