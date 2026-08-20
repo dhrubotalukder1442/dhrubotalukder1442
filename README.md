@@ -47,7 +47,6 @@
         <img src="https://img.shields.io/badge/-Python-0099CC?style=flat-square" />
         <img src="https://img.shields.io/badge/-FastAPI-300D4F?style=flat-square&logo=pusher&logoColor=white" />
         <img src="https://img.shields.io/badge/-spaCy?style=flat-square&logo=jsonwebtokens" />
-        <img src="https://img.shields.io/badge/-scikit-learn-0099CC?style=flat-square" />
         <img src="https://img.shields.io/badge/-LLM API Integration-300D4F?style=flat-square&logo=pusher&logoColor=white" />
         <img src="https://img.shields.io/badge/-Google Gemini API-300D4F?style=flat-square&logo=pusher&logoColor=white" />
         <img src="https://img.shields.io/badge/-Prompt Engineering-300D4F?style=flat-square&logo=pusher&logoColor=white" />
