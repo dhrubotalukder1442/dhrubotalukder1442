@@ -22,24 +22,36 @@
   </a>
 </p>
 ---
-## 👨‍💻 About Me
-- 🔹 Full Stack Developer from Bangladesh
-- 🔹 Passionate about Web Development & Software Engineering
-- 🔹 Strong in React, Next.js, Node.js & Laravel
-- 🔹 Interested in Secure Authentication & System Design
-- 🔹 Data Analytics & Machine Learning Enthusiast
-- 🔹 Currently Learning:
-  - GSAP
-  - NestJS
-- 🔹 Love solving real-world problems with code
----
+
 
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,mongodb,mysql,python,git,github,vercel&theme=dark" />
 </p>
 
----
+
+
+## 🚀 Featured Projects
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3>🏠 SkillForge</h3>
+      <p>AI-Powered Skill Analysis & Roadmap Platform</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TypeORM?style=flat-square&logo=jsonwebtokens" />
+        <img src="https://img.shields.io/badge/-Python-0099CC?style=flat-square" />
+        <img src="https://img.shields.io/badge/-FastAPI-300D4F?style=flat-square&logo=pusher&logoColor=white" />
+        <img src="https://img.shields.io/badge/-spaCy?style=flat-square&logo=jsonwebtokens" />
+        <img src="https://img.shields.io/badge/-scikit-learn-0099CC?style=flat-square" />
+        <img src="https://img.shields.io/badge/-LLM API Integration-300D4F?style=flat-square&logo=pusher&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Google Gemini API-300D4F?style=flat-square&logo=pusher&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Prompt Engineering-300D4F?style=flat-square&logo=pusher&logoColor=white" />
+      </p>
+      <p><a >In Progress </a></p>
+    </td>
+    <td width="50%">
 
 ## 🚀 Featured Projects
 <table align="center">
