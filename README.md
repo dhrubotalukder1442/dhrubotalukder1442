@@ -31,6 +31,9 @@
 
 
 
+
+
+
 ## 🚀 Featured Projects
 <table align="center">
   <tr>
@@ -51,11 +54,6 @@
       </p>
       <p><a >In Progress </a></p>
     </td>
-    <td width="50%">
-
-## 🚀 Featured Projects
-<table align="center">
-  <tr>
     <td width="50%">
       <h3>🏠 FixNext-Sheba</h3>
       <p>Home Service Booking Platform</p>
