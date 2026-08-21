@@ -29,11 +29,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,laravel,php,mongodb,mysql,python,git,github,vercel&theme=dark" />
 </p>
 
-
-
-
-
-
 ## 🚀 Featured Projects
 <table align="center">
   <tr>
