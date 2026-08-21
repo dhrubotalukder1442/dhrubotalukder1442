@@ -51,7 +51,7 @@
         <img src="https://img.shields.io/badge/-Google Gemini API-300D4F?style=flat-square&logo=pusher&logoColor=white" />
         <img src="https://img.shields.io/badge/-Prompt Engineering-300D4F?style=flat-square&logo=pusher&logoColor=white" />
       </p>
-      <p><a >In Progress </a></p>
+    <p><a href="https://skillforge-virid-nine.vercel.app/">Live</a></p>
     </td>
     <td width="50%">
       <h3>🏠 FixNext-Sheba</h3>
